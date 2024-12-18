@@ -10,7 +10,7 @@ git pop
 git tag
 git tag -d maintag
 
-![My Image](./photo.png)
+![My Image](./Screenshot%20(97).png)
 
 
 
